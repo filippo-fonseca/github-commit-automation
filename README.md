@@ -1,4 +1,4 @@
-# github-commit-automation
+# `🎧 github-commit-automation`
 
 My own take on a Shell script that has been attempted multiple times by engineers/devs across the web - this is just what works for me. :)
 
