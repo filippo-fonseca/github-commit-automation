@@ -26,6 +26,8 @@ chmod +x "PATH"
 
 ## 4. Test
 
-Run the command you inputted as an alias in your zsh/bash config in an existing git repo and you should be set!
+CLOSE AND REOPEN YOUR TERMINAL FIRST...
+
+Now run the command you inputted as an alias in your zsh/bash config in an existing git repo and you should be set!
 
 Created with ❤️ by [**@FilippoFonseca**](https://twitter.com/FilippoFonseca).
